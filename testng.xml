@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite 1" thread-count="1" verbose="1" annotations="JDK" parallel="tests">
+  <test name="Test One">
+    <classes>
+      <class name="swapi.Test1"/>
+    </classes>
+    
+  </test> <!-- Test -->
+  <test name="Test Two">
+    <classes>
+      <class name="swapi.Test2"/>
+    </classes>
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

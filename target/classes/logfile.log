@@ -1,0 +1,516 @@
+2019-10-03 15:04:09,918 INFO  [Log] Excel File Setup completed. 
+2019-10-03 15:04:09,925 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:04:09,925 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:04:09,925 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-03 15:04:09,925 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:04:09,925 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:04:12,420 INFO  [Log] Response Code 200 received 
+2019-10-03 15:04:12,730 INFO  [Log] Total number of planet is =61 
+2019-10-03 15:04:12,739 INFO  [Log] Navigated to Next Page:https://swapi.co/api/planets/?page=2 
+2019-10-03 15:04:12,745 INFO  [Log] Alderaan 
+2019-10-03 15:04:12,745 INFO  [Log] Yavin IV 
+2019-10-03 15:04:12,745 INFO  [Log] Hoth 
+2019-10-03 15:04:12,745 INFO  [Log] Dagobah 
+2019-10-03 15:04:12,745 INFO  [Log] Bespin 
+2019-10-03 15:04:12,745 INFO  [Log] Endor 
+2019-10-03 15:04:12,745 INFO  [Log] Naboo 
+2019-10-03 15:04:12,745 INFO  [Log] Coruscant 
+2019-10-03 15:04:12,745 INFO  [Log] Kamino 
+2019-10-03 15:04:12,745 INFO  [Log] Geonosis 
+2019-10-03 15:04:13,760 INFO  [Log] Navigated to Next Page:https://swapi.co/api/planets/?page=3 
+2019-10-03 15:04:13,765 INFO  [Log] Utapau 
+2019-10-03 15:04:13,765 INFO  [Log] Mustafar 
+2019-10-03 15:04:13,765 INFO  [Log] Kashyyyk 
+2019-10-03 15:04:13,765 INFO  [Log] Polis Massa 
+2019-10-03 15:04:13,765 INFO  [Log] Mygeeto 
+2019-10-03 15:04:13,765 INFO  [Log] Felucia 
+2019-10-03 15:04:13,765 INFO  [Log] Cato Neimoidia 
+2019-10-03 15:04:13,765 INFO  [Log] Saleucami 
+2019-10-03 15:04:13,765 INFO  [Log] Stewjon 
+2019-10-03 15:04:13,765 INFO  [Log] Eriadu 
+2019-10-03 15:04:14,470 INFO  [Log] Navigated to Next Page:https://swapi.co/api/planets/?page=4 
+2019-10-03 15:04:14,486 INFO  [Log] Corellia 
+2019-10-03 15:04:14,486 INFO  [Log] Rodia 
+2019-10-03 15:04:14,486 INFO  [Log] Nal Hutta 
+2019-10-03 15:04:14,486 INFO  [Log] Dantooine 
+2019-10-03 15:04:14,486 INFO  [Log] Bestine IV 
+2019-10-03 15:04:14,486 INFO  [Log] Ord Mantell 
+2019-10-03 15:04:14,487 INFO  [Log] unknown 
+2019-10-03 15:04:14,487 INFO  [Log] Trandosha 
+2019-10-03 15:04:14,487 INFO  [Log] Socorro 
+2019-10-03 15:04:14,487 INFO  [Log] Mon Cala 
+2019-10-03 15:04:15,198 INFO  [Log] Navigated to Next Page:https://swapi.co/api/planets/?page=5 
+2019-10-03 15:04:15,214 INFO  [Log] Chandrila 
+2019-10-03 15:04:15,214 INFO  [Log] Sullust 
+2019-10-03 15:04:15,214 INFO  [Log] Toydaria 
+2019-10-03 15:04:15,214 INFO  [Log] Malastare 
+2019-10-03 15:04:15,214 INFO  [Log] Dathomir 
+2019-10-03 15:04:15,214 INFO  [Log] Ryloth 
+2019-10-03 15:04:15,214 INFO  [Log] Aleen Minor 
+2019-10-03 15:04:15,214 INFO  [Log] Vulpter 
+2019-10-03 15:04:15,214 INFO  [Log] Troiken 
+2019-10-03 15:04:15,215 INFO  [Log] Tund 
+2019-10-03 15:04:16,155 INFO  [Log] Navigated to Next Page:https://swapi.co/api/planets/?page=6 
+2019-10-03 15:04:16,163 INFO  [Log] Haruun Kal 
+2019-10-03 15:04:16,163 INFO  [Log] Cerea 
+2019-10-03 15:04:16,163 INFO  [Log] Glee Anselm 
+2019-10-03 15:04:16,163 INFO  [Log] Iridonia 
+2019-10-03 15:04:16,163 INFO  [Log] Tholoth 
+2019-10-03 15:04:16,163 INFO  [Log] Iktotch 
+2019-10-03 15:04:16,163 INFO  [Log] Quermia 
+2019-10-03 15:04:16,163 INFO  [Log] Dorin 
+2019-10-03 15:04:16,163 INFO  [Log] Champala 
+2019-10-03 15:04:16,163 INFO  [Log] Mirial 
+2019-10-03 15:04:17,055 INFO  [Log] Navigated to Next Page:https://swapi.co/api/planets/?page=7 
+2019-10-03 15:04:17,059 INFO  [Log] Serenno 
+2019-10-03 15:04:17,059 INFO  [Log] Concord Dawn 
+2019-10-03 15:04:17,059 INFO  [Log] Zolan 
+2019-10-03 15:04:17,059 INFO  [Log] Ojom 
+2019-10-03 15:04:17,059 INFO  [Log] Skako 
+2019-10-03 15:04:17,059 INFO  [Log] Muunilinst 
+2019-10-03 15:04:17,059 INFO  [Log] Shili 
+2019-10-03 15:04:17,059 INFO  [Log] Kalee 
+2019-10-03 15:04:17,059 INFO  [Log] Umbara 
+2019-10-03 15:04:17,059 INFO  [Log] Tatooine 
+2019-10-03 15:04:17,852 INFO  [Log] No more page left after that 
+2019-10-03 15:04:17,865 INFO  [Log] Jakku 
+2019-10-03 15:04:17,982 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-03 15:04:17,982 INFO  [Log] X 
+2019-10-03 15:04:17,982 INFO  [Log] X 
+2019-10-03 15:04:17,982 INFO  [Log] X 
+2019-10-03 15:04:17,983 INFO  [Log] X 
+2019-10-03 15:04:18,021 INFO  [Log] Excel File Setup completed. 
+2019-10-03 15:04:18,022 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:04:18,022 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:04:18,022 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test2       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-03 15:04:18,022 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:04:18,022 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:04:18,835 INFO  [Log] Response Code 200 received 
+2019-10-03 15:04:18,898 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-03 15:04:18,898 INFO  [Log] X 
+2019-10-03 15:04:18,898 INFO  [Log] X 
+2019-10-03 15:04:18,898 INFO  [Log] X 
+2019-10-03 15:04:18,898 INFO  [Log] X 
+2019-10-03 15:04:18,926 INFO  [Log] Excel File Setup completed. 
+2019-10-03 15:04:18,927 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:04:18,927 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:04:18,927 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Star_War_Main_Page       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-03 15:04:18,927 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:04:18,927 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:04:32,192 INFO  [Log] Total links detected are :141 
+2019-10-03 15:04:32,851 INFO  [Log] https://disneytermsofuse.com/ - OK 
+2019-10-03 15:04:32,966 INFO  [Log] https://www.disney.com/ - OK 
+2019-10-03 15:04:33,165 INFO  [Log] https://www.shopdisney.com/?CMP=OTL-Dcom_ChromShpIconB_Shop_EFC280559 - OK 
+2019-10-03 15:04:36,366 INFO  [Log] https://disneyparks.disney.go.com/?DISCID=DI_mtt_chrome - OK 
+2019-10-03 15:04:36,496 INFO  [Log] https://disneyworld.disney.go.com/?DISCID=DI_mtt_chrome_dropdown_wdw - OK 
+2019-10-03 15:04:36,573 INFO  [Log] https://disneyland.disney.go.com/?DISCID=DI_mtt_chrome_dropdown_dlr - OK 
+2019-10-03 15:04:37,028 INFO  [Log] https://disneycruise.disney.go.com/?DISCID=DI_mtt_chrome_dropdown_dcl - OK 
+2019-10-03 15:04:37,248 INFO  [Log] https://www.disneyaulani.com/?DISCID=DI_mtt_chrome_dropdown_aulani - OK 
+2019-10-03 15:04:37,846 INFO  [Log] https://www.adventuresbydisney.com/?DISCID=DI_mtt_chrome_dropdown_abd - OK 
+2019-10-03 15:04:38,456 INFO  [Log] https://disneyvacationclub.disney.go.com/?DISCID=DI_mtt_chrome_dropdown_dvc - OK 
+2019-10-03 15:04:38,531 INFO  [Log] https://lol.disney.com/games - OK 
+2019-10-03 15:04:38,578 INFO  [Log] https://video.disney.com/ - OK 
+2019-10-03 15:04:39,035 INFO  [Log] https://ohmy.disney.com/ - OK 
+2019-10-03 15:04:39,103 INFO  [Log] https://shows.disney.com/ - OK 
+2019-10-03 15:04:39,266 INFO  [Log] https://movies.disney.com/ - OK 
+2019-10-03 15:04:39,359 INFO  [Log] https://music.disney.com/ - OK 
+2019-10-03 15:04:39,702 INFO  [Log] https://family.disney.com/ - OK 
+2019-10-03 15:04:39,894 INFO  [Log] https://style.disney.com/ - OK 
+2019-10-03 15:04:40,287 INFO  [Log] https://liveshows.disney.com/ - OK 
+2019-10-03 15:04:41,110 INFO  [Log] https://books.disney.com/ - OK 
+2019-10-03 15:04:41,218 INFO  [Log] https://preview.disneyplus.com/?cid=DTCI-Synergy-Disneycom-Site-NA-DisneyPlus-US-DisneyPlus-DisneyPlus-EN-GlobalNav-Desktop - OK 
+2019-10-03 15:04:41,281 INFO  [Log] https://www.starwars.com/# - OK 
+2019-10-03 15:04:41,390 INFO  [Log] https://www.starwars.com/creations - Not Found 
+2019-10-03 15:04:42,939 INFO  [Log] https://www.facebook.com/StarWars - OK 
+2019-10-03 15:04:43,609 INFO  [Log] https://starwars.tumblr.com/ - OK 
+2019-10-03 15:04:43,926 INFO  [Log] https://twitter.com/starwars - OK 
+2019-10-03 15:04:44,414 INFO  [Log] https://www.instagram.com/starwars/ - OK 
+2019-10-03 15:04:45,798 INFO  [Log] https://www.youtube.com/user/starwars - OK 
+2019-10-03 15:04:45,892 INFO  [Log] https://lol.disney.com/star-wars - OK 
+2019-10-03 15:04:45,937 INFO  [Log] https://www.starwars.com/ - OK 
+2019-10-03 15:04:45,988 INFO  [Log] https://www.starwars.com/ - OK 
+2019-10-03 15:04:46,019 INFO  [Log] https://www.starwars.com/news - OK 
+2019-10-03 15:04:46,045 INFO  [Log] https://www.starwars.com/video - OK 
+2019-10-03 15:04:46,079 INFO  [Log] https://www.starwars.com/films - OK 
+2019-10-03 15:04:46,121 INFO  [Log] https://www.starwars.com/series - OK 
+2019-10-03 15:04:46,158 INFO  [Log] https://www.starwars.com/interactive - OK 
+2019-10-03 15:04:46,195 INFO  [Log] https://www.starwars.com/community - OK 
+2019-10-03 15:04:46,230 INFO  [Log] https://www.starwars.com/databank - OK 
+2019-10-03 15:04:46,261 INFO  [Log] https://lol.disney.com/star-wars - OK 
+2019-10-03 15:04:47,951 INFO  [Log] https://www.facebook.com/StarWars - OK 
+2019-10-03 15:04:48,617 INFO  [Log] https://starwars.tumblr.com/ - OK 
+2019-10-03 15:04:48,872 INFO  [Log] https://twitter.com/starwars - OK 
+2019-10-03 15:04:49,460 INFO  [Log] https://www.instagram.com/starwars/ - OK 
+2019-10-03 15:04:50,665 INFO  [Log] https://www.youtube.com/user/starwars - OK 
+2019-10-03 15:04:50,986 INFO  [Log] https://disneyplus.com/?cid=DTCI-Synergy-StarWars-Site-Aquisition-USLaunch-US-StarWars-DisneyPlus-EN-NavPipe-PreOrderNow - OK 
+2019-10-03 15:04:51,052 INFO  [Log] https://www.starwars.com/news/triple-force-friday-products - OK 
+2019-10-03 15:04:51,087 INFO  [Log] https://www.starwars.com/news/triple-force-friday-products - OK 
+2019-10-03 15:04:51,146 INFO  [Log] https://www.starwars.com/news/triple-force-friday-products - OK 
+2019-10-03 15:04:51,177 INFO  [Log] https://www.starwars.com/news/triple-force-friday-events - OK 
+2019-10-03 15:04:51,239 INFO  [Log] https://www.starwars.com/news/deborah-chow-obi-wan-kenobi-series - OK 
+2019-10-03 15:04:51,303 INFO  [Log] https://www.starwars.com/news/deborah-chow-obi-wan-kenobi-series - OK 
+2019-10-03 15:04:51,366 INFO  [Log] https://www.starwars.com/news/deborah-chow-obi-wan-kenobi-series - OK 
+2019-10-03 15:04:51,391 INFO  [Log] https://www.starwars.com/films/star-wars-episode-ix-the-rise-of-skywalker - OK 
+2019-10-03 15:04:51,428 INFO  [Log] https://www.starwars.com/films/star-wars-episode-ix-the-rise-of-skywalker - OK 
+2019-10-03 15:04:51,502 INFO  [Log] https://www.starwars.com/video/star-wars-the-rise-of-skywalker-d23-special-look - OK 
+2019-10-03 15:04:51,538 INFO  [Log] https://www.starwars.com/films/star-wars-episode-ix-the-rise-of-skywalker - OK 
+2019-10-03 15:04:51,594 INFO  [Log] https://www.starwars.com/tv-shows/the-mandalorian - OK 
+2019-10-03 15:04:51,651 INFO  [Log] https://www.starwars.com/tv-shows/the-mandalorian - OK 
+2019-10-03 15:04:51,685 INFO  [Log] https://www.starwars.com/video/the-mandalorian-official-trailer - OK 
+2019-10-03 15:04:51,743 INFO  [Log] https://www.starwars.com/series/the-mandalorian - OK 
+2019-10-03 15:04:51,817 INFO  [Log] https://www.starwars.com/news/d23-expo-2019-star-wars-the-rise-of-skywalker-highlights - OK 
+2019-10-03 15:04:51,843 INFO  [Log] https://www.starwars.com/news/d23-expo-2019-star-wars-the-rise-of-skywalker-highlights - OK 
+2019-10-03 15:04:51,872 INFO  [Log] https://www.starwars.com/news/d23-expo-2019-star-wars-the-rise-of-skywalker-highlights - OK 
+2019-10-03 15:04:52,462 INFO  [Log] https://www.starwars.com/news/d23-expo-2019-star-wars-the-rise-of-skywalker-poster-revealed - OK 
+2019-10-03 15:04:52,488 INFO  [Log] https://www.starwars.com/news/d23-expo-2019-star-wars-the-rise-of-skywalker-poster-revealed - OK 
+2019-10-03 15:04:52,517 INFO  [Log] https://www.starwars.com/news/d23-expo-2019-star-wars-the-rise-of-skywalker-poster-revealed - OK 
+2019-10-03 15:04:53,106 INFO  [Log] https://www.starwars.com/news/d23-expo-2019-jet-trooper-from-star-wars-the-rise-of-skywalker-revealed - OK 
+2019-10-03 15:04:53,134 INFO  [Log] https://www.starwars.com/news/d23-expo-2019-jet-trooper-from-star-wars-the-rise-of-skywalker-revealed - OK 
+2019-10-03 15:04:53,159 INFO  [Log] https://www.starwars.com/news/d23-expo-2019-jet-trooper-from-star-wars-the-rise-of-skywalker-revealed - OK 
+2019-10-03 15:04:53,632 INFO  [Log] https://www.starwars.com/news/sdcc-2019-star-wars-the-rise-of-skywalker-sith-trooper-revealed - OK 
+2019-10-03 15:04:53,658 INFO  [Log] https://www.starwars.com/news/sdcc-2019-star-wars-the-rise-of-skywalker-sith-trooper-revealed - OK 
+2019-10-03 15:04:53,684 INFO  [Log] https://www.starwars.com/news/sdcc-2019-star-wars-the-rise-of-skywalker-sith-trooper-revealed - OK 
+2019-10-03 15:04:54,118 INFO  [Log] https://www.starwars.com/news/d23-expo-2019-the-mandalorian-trailer-highlights - OK 
+2019-10-03 15:04:54,172 INFO  [Log] https://www.starwars.com/news/d23-expo-2019-the-mandalorian-trailer-highlights - OK 
+2019-10-03 15:04:54,239 INFO  [Log] https://www.starwars.com/news/d23-expo-2019-the-mandalorian-trailer-highlights - OK 
+2019-10-03 15:04:59,030 INFO  [Log] https://www.starwars.com/news/poll-the-mandalorian-trailer - OK 
+2019-10-03 15:04:59,063 INFO  [Log] https://www.starwars.com/news/poll-the-mandalorian-trailer - OK 
+2019-10-03 15:04:59,099 INFO  [Log] https://www.starwars.com/news/poll-the-mandalorian-trailer - OK 
+2019-10-03 15:04:59,176 INFO  [Log] https://www.starwars.com/video/we-talk-to-the-cast-of-the-mandalorian - OK 
+2019-10-03 15:04:59,232 INFO  [Log] https://www.starwars.com/video/we-talk-to-the-cast-of-the-mandalorian - OK 
+2019-10-03 15:04:59,259 INFO  [Log] https://www.starwars.com/video/we-talk-to-the-cast-of-the-mandalorian - OK 
+2019-10-03 15:04:59,833 INFO  [Log] https://www.starwars.com/news/behind-the-scenes-the-mandalorian - OK 
+2019-10-03 15:04:59,886 INFO  [Log] https://www.starwars.com/news/behind-the-scenes-the-mandalorian - OK 
+2019-10-03 15:04:59,912 INFO  [Log] https://www.starwars.com/news/behind-the-scenes-the-mandalorian - OK 
+2019-10-03 15:04:59,957 INFO  [Log] https://www.starwars.com/video/brand-new-alien-from-star-wars-the-rise-of-skywalker-meet-babu-frik - OK 
+2019-10-03 15:04:59,995 INFO  [Log] https://www.starwars.com/video/brand-new-alien-from-star-wars-the-rise-of-skywalker-meet-babu-frik - OK 
+2019-10-03 15:05:00,030 INFO  [Log] https://www.starwars.com/news/star-wars-the-rise-of-skywalker-sweepstakes - OK 
+2019-10-03 15:05:00,055 INFO  [Log] https://www.starwars.com/news/star-wars-the-rise-of-skywalker-sweepstakes - OK 
+2019-10-03 15:05:00,091 INFO  [Log] https://www.starwars.com/news/star-wars-the-rise-of-skywalker-sweepstakes - OK 
+2019-10-03 15:05:00,193 INFO  [Log] https://www.starwars.com/news/spark-of-the-resistance-interview - OK 
+2019-10-03 15:05:00,238 INFO  [Log] https://www.starwars.com/news/spark-of-the-resistance-interview - OK 
+2019-10-03 15:05:00,268 INFO  [Log] https://www.starwars.com/news/citizen-star-wars-watches-exclusive - OK 
+2019-10-03 15:05:00,302 INFO  [Log] https://www.starwars.com/news/citizen-star-wars-watches-exclusive - OK 
+2019-10-03 15:05:00,390 INFO  [Log] https://www.starwars.com/news/the-clone-wars-rewatch-padawan-lost - OK 
+2019-10-03 15:05:00,444 INFO  [Log] https://www.starwars.com/news/the-clone-wars-rewatch-padawan-lost - OK 
+2019-10-03 15:05:00,519 INFO  [Log] https://www.starwars.com/news/return-to-vaders-castle-2-exclusive-preview - OK 
+2019-10-03 15:05:00,563 INFO  [Log] https://www.starwars.com/news/return-to-vaders-castle-2-exclusive-preview - OK 
+2019-10-03 15:05:00,635 INFO  [Log] https://www.starwars.com/news/journey-to-star-wars-the-rise-of-skywalker-allegiance-1-exclusive - OK 
+2019-10-03 15:05:00,663 INFO  [Log] https://www.starwars.com/news/journey-to-star-wars-the-rise-of-skywalker-allegiance-1-exclusive - OK 
+2019-10-03 15:05:00,765 INFO  [Log] https://www.starwars.com/news/star-wars-resistance-final-season-interview - OK 
+2019-10-03 15:05:00,792 INFO  [Log] https://www.starwars.com/news/star-wars-resistance-final-season-interview - OK 
+2019-10-03 15:05:01,234 INFO  [Log] https://www.starwars.com/news/behind-the-spooky-scenes-of-idws-return-to-vaders-castle-1-exclusive - OK 
+2019-10-03 15:05:01,281 INFO  [Log] https://www.starwars.com/news/behind-the-spooky-scenes-of-idws-return-to-vaders-castle-1-exclusive - OK 
+2019-10-03 15:05:01,306 INFO  [Log] https://www.starwars.com/news/triple-force-friday-events - OK 
+2019-10-03 15:05:01,348 INFO  [Log] https://www.starwars.com/news/triple-force-friday-events - OK 
+2019-10-03 15:05:01,419 INFO  [Log] https://www.starwars.com/news/resistance-reborn-exclusive-excerpt - OK 
+2019-10-03 15:05:01,473 INFO  [Log] https://www.starwars.com/news/resistance-reborn-exclusive-excerpt - OK 
+2019-10-03 15:05:01,508 INFO  [Log] https://www.starwars.com/video/vader-immortal-a-star-wars-vr-series-episode-ii-official-trailer - OK 
+2019-10-03 15:05:01,536 INFO  [Log] https://www.starwars.com/video/vader-immortal-a-star-wars-vr-series-episode-ii-official-trailer - OK 
+2019-10-03 15:05:01,589 INFO  [Log] https://www.starwars.com/video/vader-immortal-a-star-wars-vr-series-episode-ii-official-trailer - OK 
+2019-10-03 15:05:01,619 INFO  [Log] https://www.starwars.com/video/cal-s-mission-trailer-star-wars-jedi-fallen-order - OK 
+2019-10-03 15:05:01,649 INFO  [Log] https://www.starwars.com/video/cal-s-mission-trailer-star-wars-jedi-fallen-order - OK 
+2019-10-03 15:05:01,676 INFO  [Log] https://www.starwars.com/video/cal-s-mission-trailer-star-wars-jedi-fallen-order - OK 
+2019-10-03 15:05:01,713 INFO  [Log] https://www.starwars.com/video/triple-force-friday-fun-and-vader-immortal-episode-ii - OK 
+2019-10-03 15:05:01,740 INFO  [Log] https://www.starwars.com/video/triple-force-friday-fun-and-vader-immortal-episode-ii - OK 
+2019-10-03 15:05:01,768 INFO  [Log] https://www.starwars.com/video/triple-force-friday-fun-and-vader-immortal-episode-ii - OK 
+2019-10-03 15:05:02,583 INFO  [Log] https://www.starwarscelebration.com/About/Ticket-Details - OK 
+2019-10-03 15:05:02,627 INFO  [Log] https://www.starwars.com/force-for-change - OK 
+2019-10-03 15:05:06,190 INFO  [Log] https://www.facebook.com/StarWars - OK 
+2019-10-03 15:05:06,818 INFO  [Log] https://starwars.tumblr.com/ - OK 
+2019-10-03 15:05:07,069 INFO  [Log] https://twitter.com/starwars - OK 
+2019-10-03 15:05:07,552 INFO  [Log] https://www.instagram.com/starwars/ - OK 
+2019-10-03 15:05:08,905 INFO  [Log] https://www.youtube.com/user/starwars - OK 
+2019-10-03 15:05:08,992 INFO  [Log] https://lol.disney.com/star-wars - OK 
+2019-10-03 15:05:09,134 INFO  [Log] http://disneytermsofuse.com/ - Moved Permanently 
+2019-10-03 15:05:09,544 INFO  [Log] http://disney.go.com/guestservices/legalnotices?ppLink=pp_wdig - Moved Permanently 
+2019-10-03 15:05:09,664 INFO  [Log] http://disneyprivacycenter.com/ - Moved Permanently 
+2019-10-03 15:05:10,945 INFO  [Log] https://disneyprivacycenter.com/kids-privacy-policy/english/ - OK 
+2019-10-03 15:05:12,293 INFO  [Log] https://disneyprivacycenter.com/notice-to-california-residents/ - OK 
+2019-10-03 15:05:12,328 INFO  [Log] http://www.shopdisney.com/star-wars?CMP=OTL-Dcom&att=StarWars_Footer_Store - Moved Permanently 
+2019-10-03 15:05:13,199 INFO  [Log] https://support.starwars.com/ - OK 
+2019-10-03 15:05:13,235 INFO  [Log] http://preferences-mgr.truste.com/?type=starwars&affiliateId=115 - OK 
+2019-10-03 15:05:18,287 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-03 15:05:18,287 INFO  [Log] X 
+2019-10-03 15:05:18,287 INFO  [Log] X 
+2019-10-03 15:05:18,287 INFO  [Log] X 
+2019-10-03 15:05:18,287 INFO  [Log] X 
+2019-10-03 15:05:18,466 INFO  [Log] Excel File Setup completed. 
+2019-10-03 15:05:18,467 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:05:18,467 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:05:18,467 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Star_War_Video_Page       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-03 15:05:18,467 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:05:18,467 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:05:30,271 INFO  [Log] Total links detected are :157 
+2019-10-03 15:05:30,732 INFO  [Log] https://disneytermsofuse.com/ - OK 
+2019-10-03 15:05:30,806 INFO  [Log] https://www.disney.com/ - OK 
+2019-10-03 15:05:30,997 INFO  [Log] https://www.shopdisney.com/?CMP=OTL-Dcom_ChromShpIconB_Shop_EFC280559 - OK 
+2019-10-03 15:05:34,266 INFO  [Log] https://disneyparks.disney.go.com/?DISCID=DI_mtt_chrome - OK 
+2019-10-03 15:05:34,328 INFO  [Log] https://disneyworld.disney.go.com/?DISCID=DI_mtt_chrome_dropdown_wdw - OK 
+2019-10-03 15:05:34,399 INFO  [Log] https://disneyland.disney.go.com/?DISCID=DI_mtt_chrome_dropdown_dlr - OK 
+2019-10-03 15:05:34,700 INFO  [Log] https://disneycruise.disney.go.com/?DISCID=DI_mtt_chrome_dropdown_dcl - OK 
+2019-10-03 15:05:34,992 INFO  [Log] https://www.disneyaulani.com/?DISCID=DI_mtt_chrome_dropdown_aulani - OK 
+2019-10-03 15:05:35,589 INFO  [Log] https://www.adventuresbydisney.com/?DISCID=DI_mtt_chrome_dropdown_abd - OK 
+2019-10-03 15:05:36,273 INFO  [Log] https://disneyvacationclub.disney.go.com/?DISCID=DI_mtt_chrome_dropdown_dvc - OK 
+2019-10-03 15:05:36,344 INFO  [Log] https://lol.disney.com/games - OK 
+2019-10-03 15:05:36,457 INFO  [Log] https://video.disney.com/ - OK 
+2019-10-03 15:05:36,589 INFO  [Log] https://ohmy.disney.com/ - OK 
+2019-10-03 15:05:36,731 INFO  [Log] https://shows.disney.com/ - OK 
+2019-10-03 15:05:36,799 INFO  [Log] https://movies.disney.com/ - OK 
+2019-10-03 15:05:36,931 INFO  [Log] https://music.disney.com/ - OK 
+2019-10-03 15:05:37,007 INFO  [Log] https://family.disney.com/ - OK 
+2019-10-03 15:05:37,343 INFO  [Log] https://style.disney.com/ - OK 
+2019-10-03 15:05:37,396 INFO  [Log] https://liveshows.disney.com/ - OK 
+2019-10-03 15:05:38,162 INFO  [Log] https://books.disney.com/ - OK 
+2019-10-03 15:05:38,230 INFO  [Log] https://preview.disneyplus.com/?cid=DTCI-Synergy-Disneycom-Site-NA-DisneyPlus-US-DisneyPlus-DisneyPlus-EN-GlobalNav-Desktop - OK 
+2019-10-03 15:05:38,437 INFO  [Log] https://www.starwars.com/video# - OK 
+2019-10-03 15:05:38,551 INFO  [Log] https://www.starwars.com/creations - Not Found 
+2019-10-03 15:05:40,080 INFO  [Log] https://www.facebook.com/StarWars - OK 
+2019-10-03 15:05:40,746 INFO  [Log] https://starwars.tumblr.com/ - OK 
+2019-10-03 15:05:41,002 INFO  [Log] https://twitter.com/starwars - OK 
+2019-10-03 15:05:41,559 INFO  [Log] https://www.instagram.com/starwars/ - OK 
+2019-10-03 15:05:42,919 INFO  [Log] https://www.youtube.com/user/starwars - OK 
+2019-10-03 15:05:43,013 INFO  [Log] https://lol.disney.com/star-wars - OK 
+2019-10-03 15:05:43,093 INFO  [Log] https://www.starwars.com/ - OK 
+2019-10-03 15:05:43,146 INFO  [Log] https://www.starwars.com/ - OK 
+2019-10-03 15:05:43,240 INFO  [Log] https://www.starwars.com/news - OK 
+2019-10-03 15:05:43,299 INFO  [Log] https://www.starwars.com/video - OK 
+2019-10-03 15:05:43,376 INFO  [Log] https://www.starwars.com/films - OK 
+2019-10-03 15:05:43,434 INFO  [Log] https://www.starwars.com/series - OK 
+2019-10-03 15:05:43,469 INFO  [Log] https://www.starwars.com/interactive - OK 
+2019-10-03 15:05:43,500 INFO  [Log] https://www.starwars.com/community - OK 
+2019-10-03 15:05:43,536 INFO  [Log] https://www.starwars.com/databank - OK 
+2019-10-03 15:05:43,577 INFO  [Log] https://lol.disney.com/star-wars - OK 
+2019-10-03 15:05:45,057 INFO  [Log] https://www.facebook.com/StarWars - OK 
+2019-10-03 15:05:45,753 INFO  [Log] https://starwars.tumblr.com/ - OK 
+2019-10-03 15:05:46,039 INFO  [Log] https://twitter.com/starwars - OK 
+2019-10-03 15:05:46,622 INFO  [Log] https://www.instagram.com/starwars/ - OK 
+2019-10-03 15:05:47,749 INFO  [Log] https://www.youtube.com/user/starwars - OK 
+2019-10-03 15:05:47,811 INFO  [Log] https://www.starwars.com/the-star-wars-show - OK 
+2019-10-03 15:05:47,846 INFO  [Log] https://www.starwars.com/the-star-wars-show - OK 
+2019-10-03 15:05:47,924 INFO  [Log] https://www.starwars.com/the-star-wars-show - OK 
+2019-10-03 15:05:47,984 INFO  [Log] https://www.starwars.com/our-star-wars-stories - OK 
+2019-10-03 15:05:48,035 INFO  [Log] https://www.starwars.com/our-star-wars-stories - OK 
+2019-10-03 15:05:48,062 INFO  [Log] https://www.starwars.com/our-star-wars-stories - OK 
+2019-10-03 15:05:48,135 INFO  [Log] https://www.starwars.com/video/brand-new-alien-from-star-wars-the-rise-of-skywalker-meet-babu-frik - OK 
+2019-10-03 15:05:48,177 INFO  [Log] https://www.starwars.com/video/brand-new-alien-from-star-wars-the-rise-of-skywalker-meet-babu-frik - OK 
+2019-10-03 15:05:48,214 INFO  [Log] https://www.starwars.com/video/vader-immortal-a-star-wars-vr-series-episode-ii-official-trailer - OK 
+2019-10-03 15:05:48,270 INFO  [Log] https://www.starwars.com/video/vader-immortal-a-star-wars-vr-series-episode-ii-official-trailer - OK 
+2019-10-03 15:05:48,324 INFO  [Log] https://www.starwars.com/video/vader-immortal-a-star-wars-vr-series-episode-ii-official-trailer - OK 
+2019-10-03 15:05:48,451 INFO  [Log] https://www.starwars.com/video/cal-s-mission-trailer-star-wars-jedi-fallen-order - OK 
+2019-10-03 15:05:48,518 INFO  [Log] https://www.starwars.com/video/cal-s-mission-trailer-star-wars-jedi-fallen-order - OK 
+2019-10-03 15:05:48,571 INFO  [Log] https://www.starwars.com/video/cal-s-mission-trailer-star-wars-jedi-fallen-order - OK 
+2019-10-03 15:05:48,619 INFO  [Log] https://www.starwars.com/video/triple-force-friday-fun-and-vader-immortal-episode-ii - OK 
+2019-10-03 15:05:48,646 INFO  [Log] https://www.starwars.com/video/triple-force-friday-fun-and-vader-immortal-episode-ii - OK 
+2019-10-03 15:05:48,671 INFO  [Log] https://www.starwars.com/video/triple-force-friday-fun-and-vader-immortal-episode-ii - OK 
+2019-10-03 15:05:48,746 INFO  [Log] https://www.starwars.com/science-and-star-wars - OK 
+2019-10-03 15:05:48,782 INFO  [Log] https://www.starwars.com/science-and-star-wars - OK 
+2019-10-03 15:05:48,812 INFO  [Log] https://www.starwars.com/science-and-star-wars - OK 
+2019-10-03 15:05:48,846 INFO  [Log] https://www.starwars.com/video/brand-new-alien-from-star-wars-the-rise-of-skywalker-meet-babu-frik - OK 
+2019-10-03 15:05:48,901 INFO  [Log] https://www.starwars.com/video/brand-new-alien-from-star-wars-the-rise-of-skywalker-meet-babu-frik - OK 
+2019-10-03 15:05:48,930 INFO  [Log] https://www.starwars.com/video/brand-new-alien-from-star-wars-the-rise-of-skywalker-meet-babu-frik - OK 
+2019-10-03 15:05:48,955 INFO  [Log] https://www.starwars.com/video/vader-immortal-a-star-wars-vr-series-episode-ii-official-trailer - OK 
+2019-10-03 15:05:48,979 INFO  [Log] https://www.starwars.com/video/vader-immortal-a-star-wars-vr-series-episode-ii-official-trailer - OK 
+2019-10-03 15:05:49,012 INFO  [Log] https://www.starwars.com/video/vader-immortal-a-star-wars-vr-series-episode-ii-official-trailer - OK 
+2019-10-03 15:05:49,066 INFO  [Log] https://www.starwars.com/video/cal-s-mission-trailer-star-wars-jedi-fallen-order - OK 
+2019-10-03 15:05:49,105 INFO  [Log] https://www.starwars.com/video/cal-s-mission-trailer-star-wars-jedi-fallen-order - OK 
+2019-10-03 15:05:49,140 INFO  [Log] https://www.starwars.com/video/cal-s-mission-trailer-star-wars-jedi-fallen-order - OK 
+2019-10-03 15:05:49,192 INFO  [Log] https://www.starwars.com/video/triple-force-friday-fun-and-vader-immortal-episode-ii - OK 
+2019-10-03 15:05:49,228 INFO  [Log] https://www.starwars.com/video/triple-force-friday-fun-and-vader-immortal-episode-ii - OK 
+2019-10-03 15:05:49,255 INFO  [Log] https://www.starwars.com/video/triple-force-friday-fun-and-vader-immortal-episode-ii - OK 
+2019-10-03 15:05:49,331 INFO  [Log] https://www.starwars.com/video/vader-immortal-a-star-wars-vr-series-episode-i-official-trailer - OK 
+2019-10-03 15:05:49,379 INFO  [Log] https://www.starwars.com/video/vader-immortal-a-star-wars-vr-series-episode-i-official-trailer - OK 
+2019-10-03 15:05:49,405 INFO  [Log] https://www.starwars.com/video/vader-immortal-a-star-wars-vr-series-episode-i-official-trailer - OK 
+2019-10-03 15:05:49,476 INFO  [Log] https://www.starwars.com/video/kylo-ren-follows-darth-vader-and-resistance-wins-a-saturn-award - OK 
+2019-10-03 15:05:49,504 INFO  [Log] https://www.starwars.com/video/kylo-ren-follows-darth-vader-and-resistance-wins-a-saturn-award - OK 
+2019-10-03 15:05:49,530 INFO  [Log] https://www.starwars.com/video/kylo-ren-follows-darth-vader-and-resistance-wins-a-saturn-award - OK 
+2019-10-03 15:05:49,556 INFO  [Log] https://www.starwars.com/video/exclusive-look-at-poe-s-x-wing-from-star-wars-rise-of-the-resistance - OK 
+2019-10-03 15:05:49,583 INFO  [Log] https://www.starwars.com/video/exclusive-look-at-poe-s-x-wing-from-star-wars-rise-of-the-resistance - OK 
+2019-10-03 15:05:49,607 INFO  [Log] https://www.starwars.com/video/exclusive-look-at-poe-s-x-wing-from-star-wars-rise-of-the-resistance - OK 
+2019-10-03 15:05:49,678 INFO  [Log] https://www.starwars.com/video/the-rise-of-skywalker-cast-is-excited-for-december - OK 
+2019-10-03 15:05:49,714 INFO  [Log] https://www.starwars.com/video/the-rise-of-skywalker-cast-is-excited-for-december - OK 
+2019-10-03 15:05:49,764 INFO  [Log] https://www.starwars.com/video/the-rise-of-skywalker-cast-is-excited-for-december - OK 
+2019-10-03 15:05:49,848 INFO  [Log] https://www.starwars.com/video/we-talk-to-the-cast-of-the-mandalorian - OK 
+2019-10-03 15:05:49,886 INFO  [Log] https://www.starwars.com/video/we-talk-to-the-cast-of-the-mandalorian - OK 
+2019-10-03 15:05:49,910 INFO  [Log] https://www.starwars.com/video/we-talk-to-the-cast-of-the-mandalorian - OK 
+2019-10-03 15:05:49,937 INFO  [Log] https://www.starwars.com/video/star-wars-the-rise-of-skywalker-d23-special-look - OK 
+2019-10-03 15:05:49,968 INFO  [Log] https://www.starwars.com/video/star-wars-the-rise-of-skywalker-d23-special-look - OK 
+2019-10-03 15:05:50,006 INFO  [Log] https://www.starwars.com/video/star-wars-the-rise-of-skywalker-d23-special-look - OK 
+2019-10-03 15:05:50,033 INFO  [Log] https://www.starwars.com/video/the-mandalorian-official-trailer - OK 
+2019-10-03 15:05:50,066 INFO  [Log] https://www.starwars.com/video/the-mandalorian-official-trailer - OK 
+2019-10-03 15:05:50,118 INFO  [Log] https://www.starwars.com/video/the-mandalorian-official-trailer - OK 
+2019-10-03 15:05:50,206 INFO  [Log] https://www.starwars.com/video/we-re-heading-to-d23-expo - OK 
+2019-10-03 15:05:50,248 INFO  [Log] https://www.starwars.com/video/we-re-heading-to-d23-expo - OK 
+2019-10-03 15:05:50,281 INFO  [Log] https://www.starwars.com/video/we-re-heading-to-d23-expo - OK 
+2019-10-03 15:05:50,320 INFO  [Log] https://www.starwars.com/video/the-russo-brothers-love-star-wars-3-000 - OK 
+2019-10-03 15:05:50,371 INFO  [Log] https://www.starwars.com/video/the-russo-brothers-love-star-wars-3-000 - OK 
+2019-10-03 15:05:50,424 INFO  [Log] https://www.starwars.com/video/the-russo-brothers-love-star-wars-3-000 - OK 
+2019-10-03 15:05:50,518 INFO  [Log] https://www.starwars.com/video/disneyxd-season-2-trailer-star-wars-resistance - OK 
+2019-10-03 15:05:50,568 INFO  [Log] https://www.starwars.com/video/disneyxd-season-2-trailer-star-wars-resistance - OK 
+2019-10-03 15:05:50,615 INFO  [Log] https://www.starwars.com/video/disneyxd-season-2-trailer-star-wars-resistance - OK 
+2019-10-03 15:05:50,692 INFO  [Log] https://www.starwars.com/video/secrets-of-the-jedi-and-the-star-wars-unknown - OK 
+2019-10-03 15:05:50,750 INFO  [Log] https://www.starwars.com/video/secrets-of-the-jedi-and-the-star-wars-unknown - OK 
+2019-10-03 15:05:50,822 INFO  [Log] https://www.starwars.com/video/secrets-of-the-jedi-and-the-star-wars-unknown - OK 
+2019-10-03 15:05:50,908 INFO  [Log] https://www.starwars.com/video/we-talk-thrawn-treason-with-timothy-zahn - OK 
+2019-10-03 15:05:50,960 INFO  [Log] https://www.starwars.com/video/we-talk-thrawn-treason-with-timothy-zahn - OK 
+2019-10-03 15:05:51,014 INFO  [Log] https://www.starwars.com/video/we-talk-thrawn-treason-with-timothy-zahn - OK 
+2019-10-03 15:05:51,099 INFO  [Log] https://www.starwars.com/video/we-brushed-kylo-ren-s-hair-at-san-diego-comic-con - OK 
+2019-10-03 15:05:51,143 INFO  [Log] https://www.starwars.com/video/we-brushed-kylo-ren-s-hair-at-san-diego-comic-con - OK 
+2019-10-03 15:05:51,179 INFO  [Log] https://www.starwars.com/video/we-brushed-kylo-ren-s-hair-at-san-diego-comic-con - OK 
+2019-10-03 15:05:51,267 INFO  [Log] https://www.starwars.com/video/vader-immortal-posters-and-more-coming-to-san-diego-comic-con - OK 
+2019-10-03 15:05:51,313 INFO  [Log] https://www.starwars.com/video/vader-immortal-posters-and-more-coming-to-san-diego-comic-con - OK 
+2019-10-03 15:05:51,353 INFO  [Log] https://www.starwars.com/video/vader-immortal-posters-and-more-coming-to-san-diego-comic-con - OK 
+2019-10-03 15:05:51,395 INFO  [Log] https://www.starwars.com/video/sith-trooper-from-star-wars-the-rise-of-skywalker-revealed - OK 
+2019-10-03 15:05:51,435 INFO  [Log] https://www.starwars.com/video/sith-trooper-from-star-wars-the-rise-of-skywalker-revealed - OK 
+2019-10-03 15:05:51,478 INFO  [Log] https://www.starwars.com/video/sith-trooper-from-star-wars-the-rise-of-skywalker-revealed - OK 
+2019-10-03 15:05:51,581 INFO  [Log] https://www.starwars.com/video/alphabet-squadron-with-alexander-freed - OK 
+2019-10-03 15:05:51,634 INFO  [Log] https://www.starwars.com/video/alphabet-squadron-with-alexander-freed - OK 
+2019-10-03 15:05:51,658 INFO  [Log] https://www.starwars.com/video/alphabet-squadron-with-alexander-freed - OK 
+2019-10-03 15:05:51,734 INFO  [Log] https://www.starwars.com/video/star-wars-celebration-anaheim-2020-trailer - OK 
+2019-10-03 15:05:51,775 INFO  [Log] https://www.starwars.com/video/star-wars-celebration-anaheim-2020-trailer - OK 
+2019-10-03 15:05:51,803 INFO  [Log] https://www.starwars.com/video/star-wars-celebration-anaheim-2020-trailer - OK 
+2019-10-03 15:05:51,827 INFO  [Log] https://www.starwars.com/video/exclusive-preview-of-thrawn-treason-and-pete-holmes-talks-the-hero-s-journey - OK 
+2019-10-03 15:05:51,860 INFO  [Log] https://www.starwars.com/video/exclusive-preview-of-thrawn-treason-and-pete-holmes-talks-the-hero-s-journey - OK 
+2019-10-03 15:05:51,898 INFO  [Log] https://www.starwars.com/video/exclusive-preview-of-thrawn-treason-and-pete-holmes-talks-the-hero-s-journey - OK 
+2019-10-03 15:05:51,973 INFO  [Log] https://www.starwars.com/video/new-star-wars-comics-and-bringing-batuu-to-life - OK 
+2019-10-03 15:05:52,024 INFO  [Log] https://www.starwars.com/video/new-star-wars-comics-and-bringing-batuu-to-life - OK 
+2019-10-03 15:05:52,064 INFO  [Log] https://www.starwars.com/video/new-star-wars-comics-and-bringing-batuu-to-life - OK 
+2019-10-03 15:05:52,139 INFO  [Log] https://www.starwars.com/video/everything-you-need-to-know-about-star-wars-jedi-fallen-order - OK 
+2019-10-03 15:05:52,184 INFO  [Log] https://www.starwars.com/video/everything-you-need-to-know-about-star-wars-jedi-fallen-order - OK 
+2019-10-03 15:05:52,220 INFO  [Log] https://www.starwars.com/video/everything-you-need-to-know-about-star-wars-jedi-fallen-order - OK 
+2019-10-03 15:05:53,699 INFO  [Log] https://www.facebook.com/StarWars - OK 
+2019-10-03 15:05:54,256 INFO  [Log] https://starwars.tumblr.com/ - OK 
+2019-10-03 15:05:54,511 INFO  [Log] https://twitter.com/starwars - OK 
+2019-10-03 15:05:54,990 INFO  [Log] https://www.instagram.com/starwars/ - OK 
+2019-10-03 15:05:56,333 INFO  [Log] https://www.youtube.com/user/starwars - OK 
+2019-10-03 15:05:56,418 INFO  [Log] https://lol.disney.com/star-wars - OK 
+2019-10-03 15:05:56,522 INFO  [Log] http://disneytermsofuse.com/ - Moved Permanently 
+2019-10-03 15:05:56,741 INFO  [Log] http://disney.go.com/guestservices/legalnotices?ppLink=pp_wdig - Moved Permanently 
+2019-10-03 15:05:56,834 INFO  [Log] http://disneyprivacycenter.com/ - Moved Permanently 
+2019-10-03 15:05:58,299 INFO  [Log] https://disneyprivacycenter.com/kids-privacy-policy/english/ - OK 
+2019-10-03 15:05:59,528 INFO  [Log] https://disneyprivacycenter.com/notice-to-california-residents/ - OK 
+2019-10-03 15:05:59,576 INFO  [Log] http://www.shopdisney.com/star-wars?CMP=OTL-Dcom&att=StarWars_Footer_Store - Moved Permanently 
+2019-10-03 15:06:00,059 INFO  [Log] https://support.starwars.com/ - OK 
+2019-10-03 15:06:00,177 INFO  [Log] http://preferences-mgr.truste.com/?type=starwars&affiliateId=115 - OK 
+2019-10-03 15:06:00,177 ERROR [Log] Expected Link Not matched with Active Link 
+2019-10-03 15:06:05,208 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-03 15:06:05,208 INFO  [Log] X 
+2019-10-03 15:06:05,208 INFO  [Log] X 
+2019-10-03 15:06:05,208 INFO  [Log] X 
+2019-10-03 15:06:05,208 INFO  [Log] X 
+2019-10-03 15:06:05,362 INFO  [Log] Excel File Setup completed. 
+2019-10-03 15:06:05,362 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:06:05,362 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:06:05,362 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Star_War_Film_Page       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-03 15:06:05,362 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:06:05,362 INFO  [Log] **************************************************************************************** 
+2019-10-03 15:06:16,214 INFO  [Log] Total links detected are :107 
+2019-10-03 15:06:17,457 INFO  [Log] https://disneytermsofuse.com/ - OK 
+2019-10-03 15:06:17,528 INFO  [Log] https://www.disney.com/ - OK 
+2019-10-03 15:06:17,778 INFO  [Log] https://www.shopdisney.com/?CMP=OTL-Dcom_ChromShpIconB_Shop_EFC280559 - OK 
+2019-10-03 15:06:21,011 INFO  [Log] https://disneyparks.disney.go.com/?DISCID=DI_mtt_chrome - OK 
+2019-10-03 15:06:21,121 INFO  [Log] https://disneyworld.disney.go.com/?DISCID=DI_mtt_chrome_dropdown_wdw - OK 
+2019-10-03 15:06:21,249 INFO  [Log] https://disneyland.disney.go.com/?DISCID=DI_mtt_chrome_dropdown_dlr - OK 
+2019-10-03 15:06:21,829 INFO  [Log] https://disneycruise.disney.go.com/?DISCID=DI_mtt_chrome_dropdown_dcl - OK 
+2019-10-03 15:06:22,043 INFO  [Log] https://www.disneyaulani.com/?DISCID=DI_mtt_chrome_dropdown_aulani - OK 
+2019-10-03 15:06:22,538 INFO  [Log] https://www.adventuresbydisney.com/?DISCID=DI_mtt_chrome_dropdown_abd - OK 
+2019-10-03 15:06:23,126 INFO  [Log] https://disneyvacationclub.disney.go.com/?DISCID=DI_mtt_chrome_dropdown_dvc - OK 
+2019-10-03 15:06:23,214 INFO  [Log] https://lol.disney.com/games - OK 
+2019-10-03 15:06:23,243 INFO  [Log] https://video.disney.com/ - OK 
+2019-10-03 15:06:23,388 INFO  [Log] https://ohmy.disney.com/ - OK 
+2019-10-03 15:06:23,458 INFO  [Log] https://shows.disney.com/ - OK 
+2019-10-03 15:06:23,547 INFO  [Log] https://movies.disney.com/ - OK 
+2019-10-03 15:06:23,590 INFO  [Log] https://music.disney.com/ - OK 
+2019-10-03 15:06:23,636 INFO  [Log] https://family.disney.com/ - OK 
+2019-10-03 15:06:23,684 INFO  [Log] https://style.disney.com/ - OK 
+2019-10-03 15:06:23,729 INFO  [Log] https://liveshows.disney.com/ - OK 
+2019-10-03 15:06:24,474 INFO  [Log] https://books.disney.com/ - OK 
+2019-10-03 15:06:24,546 INFO  [Log] https://preview.disneyplus.com/?cid=DTCI-Synergy-Disneycom-Site-NA-DisneyPlus-US-DisneyPlus-DisneyPlus-EN-GlobalNav-Desktop - OK 
+2019-10-03 15:06:24,633 INFO  [Log] https://www.starwars.com/films# - OK 
+2019-10-03 15:06:24,722 INFO  [Log] https://www.starwars.com/creations - Not Found 
+2019-10-03 15:06:26,443 INFO  [Log] https://www.facebook.com/StarWars - OK 
+2019-10-03 15:06:26,982 INFO  [Log] https://starwars.tumblr.com/ - OK 
+2019-10-03 15:06:27,249 INFO  [Log] https://twitter.com/starwars - OK 
+2019-10-03 15:06:27,933 INFO  [Log] https://www.instagram.com/starwars/ - OK 
+2019-10-03 15:06:29,295 INFO  [Log] https://www.youtube.com/user/starwars - OK 
+2019-10-03 15:06:29,354 INFO  [Log] https://lol.disney.com/star-wars - OK 
+2019-10-03 15:06:29,387 INFO  [Log] https://www.starwars.com/ - OK 
+2019-10-03 15:06:29,437 INFO  [Log] https://www.starwars.com/ - OK 
+2019-10-03 15:06:29,474 INFO  [Log] https://www.starwars.com/news - OK 
+2019-10-03 15:06:29,523 INFO  [Log] https://www.starwars.com/video - OK 
+2019-10-03 15:06:29,565 INFO  [Log] https://www.starwars.com/films - OK 
+2019-10-03 15:06:29,621 INFO  [Log] https://www.starwars.com/series - OK 
+2019-10-03 15:06:29,666 INFO  [Log] https://www.starwars.com/interactive - OK 
+2019-10-03 15:06:29,705 INFO  [Log] https://www.starwars.com/community - OK 
+2019-10-03 15:06:29,754 INFO  [Log] https://www.starwars.com/databank - OK 
+2019-10-03 15:06:29,817 INFO  [Log] https://lol.disney.com/star-wars - OK 
+2019-10-03 15:06:31,306 INFO  [Log] https://www.facebook.com/StarWars - OK 
+2019-10-03 15:06:31,836 INFO  [Log] https://starwars.tumblr.com/ - OK 
+2019-10-03 15:06:32,083 INFO  [Log] https://twitter.com/starwars - OK 
+2019-10-03 15:06:32,618 INFO  [Log] https://www.instagram.com/starwars/ - OK 
+2019-10-03 15:06:33,956 INFO  [Log] https://www.youtube.com/user/starwars - OK 
+2019-10-03 15:06:34,014 INFO  [Log] https://www.starwars.com/films - OK 
+2019-10-03 15:06:34,053 INFO  [Log] https://www.starwars.com/films/star-wars-episode-i-the-phantom-menace - OK 
+2019-10-03 15:06:34,132 INFO  [Log] https://www.starwars.com/films/star-wars-episode-ii-attack-of-the-clones - OK 
+2019-10-03 15:06:34,193 INFO  [Log] https://www.starwars.com/films/star-wars-episode-iii-revenge-of-the-sith - OK 
+2019-10-03 15:06:34,319 INFO  [Log] https://www.starwars.com/films/star-wars-episode-iv-a-new-hope - OK 
+2019-10-03 15:06:34,418 INFO  [Log] https://www.starwars.com/films/star-wars-episode-v-the-empire-strikes-back - OK 
+2019-10-03 15:06:34,464 INFO  [Log] https://www.starwars.com/films/star-wars-episode-vi-return-of-the-jedi - OK 
+2019-10-03 15:06:34,500 INFO  [Log] https://www.starwars.com/films/star-wars-episode-vii-the-force-awakens - OK 
+2019-10-03 15:06:34,554 INFO  [Log] https://www.starwars.com/films/star-wars-episode-viii-the-last-jedi - OK 
+2019-10-03 15:06:34,616 INFO  [Log] https://www.starwars.com/films/star-wars-episode-ix-the-rise-of-skywalker - OK 
+2019-10-03 15:06:34,694 INFO  [Log] https://www.starwars.com/films/rogue-one - OK 
+2019-10-03 15:06:34,755 INFO  [Log] https://www.starwars.com/films/solo - OK 
+2019-10-03 15:06:34,847 INFO  [Log] https://www.starwars.com/films/star-wars-episode-ix-the-rise-of-skywalker - OK 
+2019-10-03 15:06:34,883 INFO  [Log] https://www.starwars.com/films/star-wars-episode-ix-the-rise-of-skywalker - OK 
+2019-10-03 15:06:34,932 INFO  [Log] https://www.starwars.com/films/star-wars-episode-ix-the-rise-of-skywalker - OK 
+2019-10-03 15:06:34,973 INFO  [Log] https://www.starwars.com/films/solo - OK 
+2019-10-03 15:06:35,021 INFO  [Log] https://www.starwars.com/films/solo - OK 
+2019-10-03 15:06:35,065 INFO  [Log] https://www.starwars.com/films/solo - OK 
+2019-10-03 15:06:35,101 INFO  [Log] https://www.starwars.com/films/star-wars-episode-viii-the-last-jedi - OK 
+2019-10-03 15:06:35,151 INFO  [Log] https://www.starwars.com/films/star-wars-episode-viii-the-last-jedi - OK 
+2019-10-03 15:06:35,189 INFO  [Log] https://www.starwars.com/films/star-wars-episode-viii-the-last-jedi - OK 
+2019-10-03 15:06:35,232 INFO  [Log] https://www.starwars.com/films/rogue-one - OK 
+2019-10-03 15:06:35,272 INFO  [Log] https://www.starwars.com/films/rogue-one - OK 
+2019-10-03 15:06:35,361 INFO  [Log] https://www.starwars.com/films/rogue-one - OK 
+2019-10-03 15:06:35,420 INFO  [Log] https://www.starwars.com/films/star-wars-episode-vii-the-force-awakens - OK 
+2019-10-03 15:06:35,454 INFO  [Log] https://www.starwars.com/films/star-wars-episode-vii-the-force-awakens - OK 
+2019-10-03 15:06:35,490 INFO  [Log] https://www.starwars.com/films/star-wars-episode-vii-the-force-awakens - OK 
+2019-10-03 15:06:35,543 INFO  [Log] https://www.starwars.com/films/star-wars-episode-vi-return-of-the-jedi - OK 
+2019-10-03 15:06:35,579 INFO  [Log] https://www.starwars.com/films/star-wars-episode-vi-return-of-the-jedi - OK 
+2019-10-03 15:06:35,606 INFO  [Log] https://www.starwars.com/films/star-wars-episode-vi-return-of-the-jedi - OK 
+2019-10-03 15:06:35,633 INFO  [Log] https://www.starwars.com/films/star-wars-episode-v-the-empire-strikes-back - OK 
+2019-10-03 15:06:35,668 INFO  [Log] https://www.starwars.com/films/star-wars-episode-v-the-empire-strikes-back - OK 
+2019-10-03 15:06:35,699 INFO  [Log] https://www.starwars.com/films/star-wars-episode-v-the-empire-strikes-back - OK 
+2019-10-03 15:06:35,736 INFO  [Log] https://www.starwars.com/films/star-wars-episode-iv-a-new-hope - OK 
+2019-10-03 15:06:35,805 INFO  [Log] https://www.starwars.com/films/star-wars-episode-iv-a-new-hope - OK 
+2019-10-03 15:06:35,837 INFO  [Log] https://www.starwars.com/films/star-wars-episode-iv-a-new-hope - OK 
+2019-10-03 15:06:35,889 INFO  [Log] https://www.starwars.com/films/star-wars-episode-iii-revenge-of-the-sith - OK 
+2019-10-03 15:06:35,932 INFO  [Log] https://www.starwars.com/films/star-wars-episode-iii-revenge-of-the-sith - OK 
+2019-10-03 15:06:35,972 INFO  [Log] https://www.starwars.com/films/star-wars-episode-iii-revenge-of-the-sith - OK 
+2019-10-03 15:06:36,059 INFO  [Log] https://www.starwars.com/films/star-wars-episode-ii-attack-of-the-clones - OK 
+2019-10-03 15:06:36,092 INFO  [Log] https://www.starwars.com/films/star-wars-episode-ii-attack-of-the-clones - OK 
+2019-10-03 15:06:36,118 INFO  [Log] https://www.starwars.com/films/star-wars-episode-ii-attack-of-the-clones - OK 
+2019-10-03 15:06:36,144 INFO  [Log] https://www.starwars.com/films/star-wars-episode-i-the-phantom-menace - OK 
+2019-10-03 15:06:36,171 INFO  [Log] https://www.starwars.com/films/star-wars-episode-i-the-phantom-menace - OK 
+2019-10-03 15:06:36,197 INFO  [Log] https://www.starwars.com/films/star-wars-episode-i-the-phantom-menace - OK 
+2019-10-03 15:06:37,748 INFO  [Log] https://www.facebook.com/StarWars - OK 
+2019-10-03 15:06:38,422 INFO  [Log] https://starwars.tumblr.com/ - OK 
+2019-10-03 15:06:38,683 INFO  [Log] https://twitter.com/starwars - OK 
+2019-10-03 15:06:39,181 INFO  [Log] https://www.instagram.com/starwars/ - OK 
+2019-10-03 15:06:40,402 INFO  [Log] https://www.youtube.com/user/starwars - OK 
+2019-10-03 15:06:40,467 INFO  [Log] https://lol.disney.com/star-wars - OK 
+2019-10-03 15:06:40,581 INFO  [Log] http://disneytermsofuse.com/ - Moved Permanently 
+2019-10-03 15:06:40,763 INFO  [Log] http://disney.go.com/guestservices/legalnotices?ppLink=pp_wdig - Moved Permanently 
+2019-10-03 15:06:40,856 INFO  [Log] http://disneyprivacycenter.com/ - Moved Permanently 
+2019-10-03 15:06:42,721 INFO  [Log] https://disneyprivacycenter.com/kids-privacy-policy/english/ - OK 
+2019-10-03 15:06:44,271 INFO  [Log] https://disneyprivacycenter.com/notice-to-california-residents/ - OK 
+2019-10-03 15:06:44,307 INFO  [Log] http://www.shopdisney.com/star-wars?CMP=OTL-Dcom&att=StarWars_Footer_Store - Moved Permanently 
+2019-10-03 15:06:44,797 INFO  [Log] https://support.starwars.com/ - OK 
+2019-10-03 15:06:44,951 INFO  [Log] http://preferences-mgr.truste.com/?type=starwars&affiliateId=115 - OK 
+2019-10-03 15:06:44,952 ERROR [Log] Expected Link Not matched with Active Link 
+2019-10-03 15:06:49,997 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-03 15:06:49,997 INFO  [Log] X 
+2019-10-03 15:06:49,997 INFO  [Log] X 
+2019-10-03 15:06:49,997 INFO  [Log] X 
+2019-10-03 15:06:49,997 INFO  [Log] X 

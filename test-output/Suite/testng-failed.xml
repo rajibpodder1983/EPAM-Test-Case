@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test One(failed)">
+    <classes>
+      <class name="swapi.Test2">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- swapi.Test2 -->
+      <class name="swapi.Test1">
+        <methods>
+          <include name="TestCase1"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- swapi.Test1 -->
+    </classes>
+  </test> <!-- Test One(failed) -->
+  <test name="Test Two(failed)">
+    <classes>
+      <class name="swapi.Test2">
+        <methods>
+          <include name="Test2"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- swapi.Test2 -->
+      <class name="swapi.Test1">
+        <methods>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- swapi.Test1 -->
+    </classes>
+  </test> <!-- Test Two(failed) -->
+</suite> <!-- Failed suite [Suite] -->

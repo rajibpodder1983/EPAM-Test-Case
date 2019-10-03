@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite 2" thread-count="1" verbose="1" annotations="JDK" parallel="tests">
+  <test name="Test main">
+    <classes>
+      <class name="Starwar.Star_War_Main_Page"/>
+    </classes>
+  </test> <!-- Test -->
+    <test name="Test Video">
+    <classes>
+      <class name="Starwar.Star_War_Video_Page"/>
+    </classes>
+  </test> <!-- Test -->
+    <test name="Test Film">
+    <classes>
+      <class name="Starwar.Star_War_Film_Page"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

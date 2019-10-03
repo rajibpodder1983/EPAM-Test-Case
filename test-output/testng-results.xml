@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite 2" duration-ms="406889" started-at="2019-10-03T21:51:46Z" finished-at="2019-10-03T21:58:32Z">
+    <groups>
+    </groups>
+    <test name="Test main" duration-ms="315623" started-at="2019-10-03T21:51:46Z" finished-at="2019-10-03T21:57:01Z">
+      <class name="Starwar.Star_War_Main_Page">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Starwar.Star_War_Main_Page@cb5822]" name="beforeTest" is-config="true" duration-ms="511" started-at="2019-10-03T14:51:46Z" finished-at="2019-10-03T14:51:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Starwar.Star_War_Main_Page@cb5822]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-10-03T14:51:46Z" finished-at="2019-10-03T14:51:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Star_War()[pri:0, instance:Starwar.Star_War_Main_Page@cb5822]" name="Star_War" duration-ms="309823" started-at="2019-10-03T14:51:46Z" finished-at="2019-10-03T14:56:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Star_War -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Starwar.Star_War_Main_Page@cb5822]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-10-03T14:51:46Z" finished-at="2019-10-03T14:51:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Starwar.Star_War_Main_Page@cb5822]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-10-03T14:56:56Z" finished-at="2019-10-03T14:56:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Starwar.Star_War_Main_Page@cb5822]" name="afterClass" is-config="true" duration-ms="1" started-at="2019-10-03T14:56:56Z" finished-at="2019-10-03T14:56:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Starwar.Star_War_Main_Page@cb5822]" name="afterTest" is-config="true" duration-ms="5274" started-at="2019-10-03T14:56:56Z" finished-at="2019-10-03T14:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Starwar.Star_War_Main_Page -->
+    </test> <!-- Test main -->
+    <test name="Test Video" duration-ms="47185" started-at="2019-10-03T21:57:01Z" finished-at="2019-10-03T21:57:48Z">
+      <class name="Starwar.Star_War_Video_Page">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Starwar.Star_War_Video_Page@d62f43]" name="beforeTest" is-config="true" duration-ms="33" started-at="2019-10-03T14:57:01Z" finished-at="2019-10-03T14:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Starwar.Star_War_Video_Page@d62f43]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-10-03T14:57:01Z" finished-at="2019-10-03T14:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Starwar.Star_War_Video_Page@d62f43]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-10-03T14:57:01Z" finished-at="2019-10-03T14:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Starwar.Star_War_Video_Page@d62f43]" name="f" duration-ms="41968" started-at="2019-10-03T14:57:01Z" finished-at="2019-10-03T14:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Starwar.Star_War_Video_Page@d62f43]" name="afterClass" is-config="true" duration-ms="1" started-at="2019-10-03T14:57:43Z" finished-at="2019-10-03T14:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Starwar.Star_War_Video_Page@d62f43]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-10-03T14:57:43Z" finished-at="2019-10-03T14:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Starwar.Star_War_Video_Page@d62f43]" name="afterTest" is-config="true" duration-ms="5180" started-at="2019-10-03T14:57:43Z" finished-at="2019-10-03T14:57:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Starwar.Star_War_Video_Page -->
+    </test> <!-- Test Video -->
+    <test name="Test Film" duration-ms="44057" started-at="2019-10-03T21:57:48Z" finished-at="2019-10-03T21:58:32Z">
+      <class name="Starwar.Star_War_Main_Page">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Starwar.Star_War_Main_Page@cb5822]" name="beforeSuite" is-config="true" duration-ms="10" started-at="2019-10-03T14:51:45Z" finished-at="2019-10-03T14:51:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Starwar.Star_War_Video_Page@d62f43]" name="beforeSuite" is-config="true" duration-ms="0" started-at="2019-10-03T14:51:46Z" finished-at="2019-10-03T14:51:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Starwar.Star_War_Film_Page@e26948]" name="beforeSuite" is-config="true" duration-ms="0" started-at="2019-10-03T14:51:46Z" finished-at="2019-10-03T14:51:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Starwar.Star_War_Main_Page@cb5822]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-10-03T14:58:32Z" finished-at="2019-10-03T14:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Starwar.Star_War_Video_Page@d62f43]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-10-03T14:58:32Z" finished-at="2019-10-03T14:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Starwar.Star_War_Film_Page@e26948]" name="afterSuite" is-config="true" duration-ms="1" started-at="2019-10-03T14:58:32Z" finished-at="2019-10-03T14:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Starwar.Star_War_Main_Page -->
+      <class name="Starwar.Star_War_Film_Page">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Starwar.Star_War_Film_Page@e26948]" name="beforeTest" is-config="true" duration-ms="25" started-at="2019-10-03T14:57:48Z" finished-at="2019-10-03T14:57:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Starwar.Star_War_Film_Page@e26948]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-10-03T14:57:48Z" finished-at="2019-10-03T14:57:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Star_War_Film_Page()[pri:0, instance:Starwar.Star_War_Film_Page@e26948]" name="Star_War_Film_Page" duration-ms="38852" started-at="2019-10-03T14:57:48Z" finished-at="2019-10-03T14:58:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Star_War_Film_Page -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Starwar.Star_War_Film_Page@e26948]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-10-03T14:57:48Z" finished-at="2019-10-03T14:57:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Starwar.Star_War_Film_Page@e26948]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-10-03T14:58:27Z" finished-at="2019-10-03T14:58:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Starwar.Star_War_Film_Page@e26948]" name="afterTest" is-config="true" duration-ms="5177" started-at="2019-10-03T14:58:27Z" finished-at="2019-10-03T14:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Starwar.Star_War_Film_Page@e26948]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-10-03T14:58:27Z" finished-at="2019-10-03T14:58:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Starwar.Star_War_Film_Page -->
+    </test> <!-- Test Film -->
+  </suite> <!-- Suite 2 -->
+</testng-results>
